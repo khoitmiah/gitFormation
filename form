@@ -1,0 +1,33 @@
+<html>
+<body>
+
+
+<h1>titre html </h1>
+<p>mon paragraphe</p>
+
+<form action="" method="post">
+
+<label for="name">Name</label>
+<input type="text" id="name" required placeholder="name">
+
+<label for="lastName" > LastName</label>
+<input type="text" name="lastName" id="lastName">
+
+<label for="multipleChoice">multipleChoice</label>
+<p>
+<input type="checkbox" name="choix" value="choix1">choice 1
+<input type="checkbox" name="choix" value="choice2">choice2
+</p>
+
+<label for="oneChoice">simple choice</label>
+<input type="radio" name ="choice" value="choice1">choiceOne
+<label for="choice2" name="choice" value="choice2">choiceTwo
+<input type="radio" name ="choice" value="choice2">choiceTwo
+</form>
+
+</body>
+
+</html
+<p>
+
+</p>
